@@ -1,1 +1,1 @@
-# DOM-XSS
+I've created a repository that focuses on DOM XSS (Cross-Site Scripting) using web messages. This repository provides a comprehensive guide on how to exploit DOM XSS vulnerabilities by leveraging the web messaging API. It includes step-by-step instructions, code examples, and explanations to help you understand the concepts and techniques involved.By exploring this repository, you'll learn how to identify and exploit DOM XSS vulnerabilities using web messages, as well as how to mitigate and prevent such attacks.
